@@ -22,43 +22,43 @@
     {
         id:1 ,
         nombre:"muzza",
-        gustos: ["Mozzarella","provenzal"],
+        ingredientes: ["Mozzarella","provenzal"],
         precio: 550
     },
     {
         id:2 ,
         nombre:"especial",
-        gustos: ["Mozzarella","jamón","morrón"],
+        ingredientes: ["Mozzarella","jamón","morrón"],
         precio: 800
     },
     {
         id:3 ,
         nombre:"fugazzeta",
-        gustos: ["Mozzarella","cebolla"],
+        ingredientes : ["Mozzarella","cebolla"],
         precio: 600
     },
     {
         id:4 ,
         nombre:"salchi",
-        gustos: ["Mozzarella","salchicha"],
+        ingredientes: ["Mozzarella","salchicha"],
         precio: 550
     },
     {
         id:5 ,
         nombre:"pasto",
-        gustos: ["Mozzarella","cebolla de verdeo","cebolla"],
+        ingredientes : ["Mozzarella","cebolla de verdeo","cebolla"],
         precio: 740
     },
     {
         id:6 ,
         nombre:"napo",
-        gustos: ["Mozzarella","jamón ","morrón","tomate natural "],
+        ingredientes: ["Mozzarella","jamón ","morrón","tomate natural "],
         precio: 900
     },
     {
         id:7 ,
         nombre:"pelada ",
-        gustos: ["salsa "],
+        ingredientes: ["salsa","mozzarella"],
         precio: 300
     }
  ]
